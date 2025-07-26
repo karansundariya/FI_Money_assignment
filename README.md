@@ -265,7 +265,3 @@ If you encounter any issues:
 - [API Documentation](http://localhost:8080/api-docs) (when server is running)
 - [Frontend Repository](./frontend)
 - [Backend Repository](./backend)
-
----
-
-**Made with ❤️ by [Your Name]** 
